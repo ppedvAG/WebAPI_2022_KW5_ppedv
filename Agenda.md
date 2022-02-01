@@ -3,9 +3,10 @@ PPEDV-Kurs: 01.02.2022 - WebAPI Kurs
 
 WebAPI:
 Montag:
+- [x] Dependency Injections 
 - [ ] Dependency Injections in WebAPI
-- [ ] ServiceCollection + ServiceProvider in Console 
-- [ ] Singleton / Scope / Transient  
+- [x] ServiceCollection + ServiceProvider in Console 
+- [x] Singleton / Scope / Transient  
 - [ ] Konfigurationen in ASP.NET Core (optional)
 - [ ] Logging in ASP.NET Core (Serilog-Beispiel)
 - [ ] Projektaufbau 

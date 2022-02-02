@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3dc02773-11c3-4409-a4cf-1afc386de6f0": {
+      "ProjectGuid": "3dc02773-11c3-4409-a4cf-1afc386de6f0",
+      "DisplayName": "BadCarSample",
+      "ColorIndex": 0
+    },
+    "3f160d9d-e900-4772-badb-31c462d1cd8d": {
+      "ProjectGuid": "3f160d9d-e900-4772-badb-31c462d1cd8d",
+      "DisplayName": "GoodCar.Interfaces",
+      "ColorIndex": 1
+    },
+    "8ace6edd-ac88-4568-a1f6-041a556572cd": {
+      "ProjectGuid": "8ace6edd-ac88-4568-a1f6-041a556572cd",
+      "DisplayName": "GoodCar.Entities",
+      "ColorIndex": 2
+    },
+    "f59bbbea-9ac1-482a-83c2-b5f44e121725": {
+      "ProjectGuid": "f59bbbea-9ac1-482a-83c2-b5f44e121725",
+      "DisplayName": "GoodCar.Services",
+      "ColorIndex": 3
+    },
+    "86b1da95-9390-45e2-8a56-0799c2f16f0a": {
+      "ProjectGuid": "86b1da95-9390-45e2-8a56-0799c2f16f0a",
+      "DisplayName": "GoodCar.App",
+      "ColorIndex": 4
+    },
+    "8a37c546-035a-4259-b342-c1fff367547d": {
+      "ProjectGuid": "8a37c546-035a-4259-b342-c1fff367547d",
+      "DisplayName": "ServiceCollection_ServiceProviderSample",
+      "ColorIndex": 5
+    },
+    "37cd8316-3c3d-40a6-8dcd-f8020ab8074b": {
+      "ProjectGuid": "37cd8316-3c3d-40a6-8dcd-f8020ab8074b",
+      "DisplayName": "DIScopeVsTransientVsSingletonSample",
+      "ColorIndex": 6
+    },
+    "90136530-fd00-4d21-bd98-7385be630f6a": {
+      "ProjectGuid": "90136530-fd00-4d21-bd98-7385be630f6a",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 7
+    },
+    "48dd9ea3-937c-4535-a6d3-6949a4034d81": {
+      "ProjectGuid": "48dd9ea3-937c-4535-a6d3-6949a4034d81",
+      "DisplayName": "LoggingSamples",
+      "ColorIndex": 8
+    },
+    "e8ce4ce4-a067-4a84-9fba-5067fe6e9ed3": {
+      "ProjectGuid": "e8ce4ce4-a067-4a84-9fba-5067fe6e9ed3",
+      "DisplayName": "ConfigurationSamples",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

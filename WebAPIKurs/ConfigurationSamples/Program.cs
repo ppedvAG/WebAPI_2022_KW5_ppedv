@@ -2,7 +2,18 @@ using ConfigurationSamples.Models;
 
 var builder = WebApplication.CreateBuilder(args); //IConfiguration -> beinhaltet ALLE Configuration aus mehreren Konfigquellen
 
-builder.Services.Configure<PositionOptions>(builder.Configuration.GetSection(PositionOptions.Position));
+
+builder.Services.PostConfigure<PositionOptions>(myOptions =>
+{
+    myOptions.Name = "Donald Duck";
+    myOptions.Title = "Dr.";
+});
+
+//Hier liegen die Konfigurationen in IConfiguration: 
+//builder.Services.Configure<PositionOptions>(builder.Configuration.GetSection(PositionOptions.Position));
+
+
+//Default Konfigurations-
 
 
 // Add services to the container.

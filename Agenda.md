@@ -11,8 +11,8 @@ Montag:
 - [x] Logging in ASP.NET Core (Serilog-Beispiel)
 
 - [x] Projektaufbau 
-- [ ] ControllerBase in aspnetcore Sourcecode
-- [ ] Return Values - Controller-Klasse
+- [x] ControllerBase in aspnetcore Sourcecode
+- [x] Return Values - Controller-Klasse
 - [ ] HTTP-Methoden (Get / Post / Put / Delete)
 - [ ] HttpVerbs in Verbindung mit Swagger (Swagger kann nicht ohne HttpVerb->z.B. HttpGet)
 

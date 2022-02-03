@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DmIUXWBbah3WWU5gy3Mi1wIfZOI9AjrKo2YpbgySaE2tDeCQKTMxLKKcjBQRcrRHTdtTFC9bY8h+KVCjgLv2dg==",
+  "dgSpecHash": "4tMBYaBfcjvpJz6DHaScP68SYzIrDiKVBb/ZK1bqL/B/t7TIewnh355zmJF2Z1Mwwk01UNrBeFAwUiQHw7ETzQ==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\Referenz\\ASPNETCORE_WebAPI_20211004\\WebAPI_MVC_Demo\\MovieSample.SharedLibrary\\MovieSample.SharedLibrary.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\WebAPI_2022_KW5_ppedv\\WebAPIKurs\\WebAPI_MVC_Demo\\MovieSample.SharedLibrary\\MovieSample.SharedLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

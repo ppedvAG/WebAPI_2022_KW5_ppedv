@@ -16,4 +16,6 @@ namespace MovieSample.API.Data
 
         public DbSet<MovieSample.SharedLibrary.Entities.Movie> Movie { get; set; }
     }
+
+    
 }

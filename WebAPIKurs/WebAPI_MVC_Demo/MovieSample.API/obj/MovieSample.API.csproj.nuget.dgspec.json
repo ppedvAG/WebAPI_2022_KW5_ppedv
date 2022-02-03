@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aktueller Kurs\\Referenz\\ASPNETCORE_WebAPI_20211004\\WebAPI_MVC_Demo\\MovieSample.API\\MovieSample.API.csproj": {}
+    "C:\\Aktueller Kurs\\WebAPI_2022_KW5_ppedv\\WebAPIKurs\\WebAPI_MVC_Demo\\MovieSample.API\\MovieSample.API.csproj": {}
   },
   "projects": {
-    "C:\\Aktueller Kurs\\Referenz\\ASPNETCORE_WebAPI_20211004\\WebAPI_MVC_Demo\\MovieSample.API\\MovieSample.API.csproj": {
+    "C:\\Aktueller Kurs\\WebAPI_2022_KW5_ppedv\\WebAPIKurs\\WebAPI_MVC_Demo\\MovieSample.API\\MovieSample.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\Referenz\\ASPNETCORE_WebAPI_20211004\\WebAPI_MVC_Demo\\MovieSample.API\\MovieSample.API.csproj",
+        "projectUniqueName": "C:\\Aktueller Kurs\\WebAPI_2022_KW5_ppedv\\WebAPIKurs\\WebAPI_MVC_Demo\\MovieSample.API\\MovieSample.API.csproj",
         "projectName": "MovieSample.API",
-        "projectPath": "C:\\Aktueller Kurs\\Referenz\\ASPNETCORE_WebAPI_20211004\\WebAPI_MVC_Demo\\MovieSample.API\\MovieSample.API.csproj",
+        "projectPath": "C:\\Aktueller Kurs\\WebAPI_2022_KW5_ppedv\\WebAPIKurs\\WebAPI_MVC_Demo\\MovieSample.API\\MovieSample.API.csproj",
         "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\Referenz\\ASPNETCORE_WebAPI_20211004\\WebAPI_MVC_Demo\\MovieSample.API\\obj\\",
+        "outputPath": "C:\\Aktueller Kurs\\WebAPI_2022_KW5_ppedv\\WebAPIKurs\\WebAPI_MVC_Demo\\MovieSample.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,8 +33,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Aktueller Kurs\\Referenz\\ASPNETCORE_WebAPI_20211004\\WebAPI_MVC_Demo\\MovieSample.SharedLibrary\\MovieSample.SharedLibrary.csproj": {
-                "projectPath": "C:\\Aktueller Kurs\\Referenz\\ASPNETCORE_WebAPI_20211004\\WebAPI_MVC_Demo\\MovieSample.SharedLibrary\\MovieSample.SharedLibrary.csproj"
+              "C:\\Aktueller Kurs\\WebAPI_2022_KW5_ppedv\\WebAPIKurs\\WebAPI_MVC_Demo\\MovieSample.SharedLibrary\\MovieSample.SharedLibrary.csproj": {
+                "projectPath": "C:\\Aktueller Kurs\\WebAPI_2022_KW5_ppedv\\WebAPIKurs\\WebAPI_MVC_Demo\\MovieSample.SharedLibrary\\MovieSample.SharedLibrary.csproj"
               }
             }
           }
@@ -78,6 +78,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -86,18 +92,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Aktueller Kurs\\Referenz\\ASPNETCORE_WebAPI_20211004\\WebAPI_MVC_Demo\\MovieSample.SharedLibrary\\MovieSample.SharedLibrary.csproj": {
+    "C:\\Aktueller Kurs\\WebAPI_2022_KW5_ppedv\\WebAPIKurs\\WebAPI_MVC_Demo\\MovieSample.SharedLibrary\\MovieSample.SharedLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\Referenz\\ASPNETCORE_WebAPI_20211004\\WebAPI_MVC_Demo\\MovieSample.SharedLibrary\\MovieSample.SharedLibrary.csproj",
+        "projectUniqueName": "C:\\Aktueller Kurs\\WebAPI_2022_KW5_ppedv\\WebAPIKurs\\WebAPI_MVC_Demo\\MovieSample.SharedLibrary\\MovieSample.SharedLibrary.csproj",
         "projectName": "MovieSample.SharedLibrary",
-        "projectPath": "C:\\Aktueller Kurs\\Referenz\\ASPNETCORE_WebAPI_20211004\\WebAPI_MVC_Demo\\MovieSample.SharedLibrary\\MovieSample.SharedLibrary.csproj",
+        "projectPath": "C:\\Aktueller Kurs\\WebAPI_2022_KW5_ppedv\\WebAPIKurs\\WebAPI_MVC_Demo\\MovieSample.SharedLibrary\\MovieSample.SharedLibrary.csproj",
         "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\Referenz\\ASPNETCORE_WebAPI_20211004\\WebAPI_MVC_Demo\\MovieSample.SharedLibrary\\obj\\",
+        "outputPath": "C:\\Aktueller Kurs\\WebAPI_2022_KW5_ppedv\\WebAPIKurs\\WebAPI_MVC_Demo\\MovieSample.SharedLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -145,7 +151,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

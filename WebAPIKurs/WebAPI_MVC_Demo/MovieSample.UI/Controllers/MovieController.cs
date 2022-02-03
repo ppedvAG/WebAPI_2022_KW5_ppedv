@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -22,6 +23,13 @@ namespace MovieSample.UI.Controllers
         // GET: Movie - Razor Pages -> IndexModel ->OnGet
         public async Task<IActionResult> Index()
         {
+
+            using HttpClient client = new HttpClient();
+            {
+
+            } //dispose
+
+
             return View(await _service.GetAll());
         }
 

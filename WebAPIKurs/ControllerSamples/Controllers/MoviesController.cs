@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ControllerSamples.Data;
 using ControllerSample.SharedLib;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ControllerSamples.Controllers
 {
@@ -24,6 +25,7 @@ namespace ControllerSamples.Controllers
 
         // GET: api/Movies
         [HttpGet]
+        [AllowAnonymous]
         public async Task<ActionResult<IEnumerable<Movie>>> GetMovie()
         {
             return await _context.Movie.ToListAsync();
@@ -31,6 +33,7 @@ namespace ControllerSamples.Controllers
 
         // GET: api/Movies/5
         [HttpGet("{id}")]
+        [Authorize(Roles = "Administrators")]
         public async Task<ActionResult<Movie>> GetMovie(int id)
         {
             var movie = await _context.Movie.FindAsync(id);

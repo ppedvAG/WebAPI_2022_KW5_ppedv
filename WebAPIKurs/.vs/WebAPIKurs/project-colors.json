@@ -70,7 +70,22 @@
       "ProjectGuid": "af7e9e1a-9d7f-4f93-b1ea-f0738454ab18",
       "DisplayName": "ControllerSamples",
       "ColorIndex": 12
+    },
+    "97c108ab-f96c-48bd-9e90-dc668d2779f0": {
+      "ProjectGuid": "97c108ab-f96c-48bd-9e90-dc668d2779f0",
+      "DisplayName": "DefaultWebAPI",
+      "ColorIndex": 13
+    },
+    "95e01926-d203-480d-852f-cdf60b2a8e40": {
+      "ProjectGuid": "95e01926-d203-480d-852f-cdf60b2a8e40",
+      "DisplayName": "HttpClientSamples",
+      "ColorIndex": 14
+    },
+    "c1447587-ba11-4f1b-8d69-461826e9a513": {
+      "ProjectGuid": "c1447587-ba11-4f1b-8d69-461826e9a513",
+      "DisplayName": "ControllerSample.SharedLib",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 0
 }

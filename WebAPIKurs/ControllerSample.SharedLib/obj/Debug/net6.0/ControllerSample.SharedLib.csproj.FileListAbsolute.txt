@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\bin\Debug\net6.0\ControllerSample.SharedLib.deps.json
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\bin\Debug\net6.0\ControllerSample.SharedLib.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\bin\Debug\net6.0\ref\ControllerSample.SharedLib.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\bin\Debug\net6.0\ControllerSample.SharedLib.pdb
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\obj\Debug\net6.0\ControllerSample.SharedLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\obj\Debug\net6.0\ControllerSample.SharedLib.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\obj\Debug\net6.0\ControllerSample.SharedLib.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\obj\Debug\net6.0\ControllerSample.SharedLib.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\obj\Debug\net6.0\ControllerSample.SharedLib.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\obj\Debug\net6.0\ref\ControllerSample.SharedLib.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\obj\Debug\net6.0\ControllerSample.SharedLib.pdb
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\obj\Debug\net6.0\ControllerSample.SharedLib.csproj.AssemblyReference.cache

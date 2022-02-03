@@ -1,4 +1,5 @@
-﻿using ControllerSamples.Models;
+﻿using ControllerSample.SharedLib;
+using ControllerSamples.Models;
 
 namespace ControllerSamples.Data
 {

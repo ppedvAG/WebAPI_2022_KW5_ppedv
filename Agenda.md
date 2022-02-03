@@ -18,11 +18,11 @@ Montag:
 - [x] Formatter (CSV,XML)
 
 
-- [ ] Customize Formatter (VCARD) - ShowCase 
+- [x] Customize Formatter (VCARD) - ShowCase 
 - [0] EF Core Anbindung + InMeomoryProvider / SqlProvider kennengelernt -> Add-Migrations + Update-Database
 
 
-- [ ] Migration von MVC & WebAPI von 4.8 auf ASP.NET Core (5-10 Minuten)
+- [x] Migration von MVC & WebAPI von 4.8 auf ASP.NET Core (5-10 Minuten)
 
 - [ ] HttpClient (30 Minuten)
 	- [ ] CRUD abgebildet

@@ -17,8 +17,8 @@ builder.Services.AddDbContext<MovieDbContext>(options =>
 
 builder.Services.AddControllers(options =>
 {
-    options.InputFormatters.Insert(0, new VCardInputFormatter());
-    options.OutputFormatters.Insert(0, new VCardOutputFormatter());
+    //options.InputFormatters.Insert(0, new VCardInputFormatter());
+    //options.OutputFormatters.Insert(0, new VCardOutputFormatter());
 }) //per Default -> JSON (text/json) (application/json) -> MIME-Standard
     .AddXmlSerializerFormatters() //XML -> text/xml / application/xml
     .AddCsvSerializerFormatters();//CSV -> text/CSV

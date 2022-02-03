@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ControllerSamples.Models;
+using ControllerSample.SharedLib;
 
 namespace ControllerSamples.Data
 {
@@ -15,6 +16,6 @@ namespace ControllerSamples.Data
         {
         }
 
-        public DbSet<ControllerSamples.Models.Movie> Movie { get; set; }
+        public DbSet<Movie> Movie { get; set; }
     }
 }

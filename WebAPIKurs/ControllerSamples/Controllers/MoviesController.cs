@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ControllerSamples.Data;
-using ControllerSamples.Models;
+using ControllerSample.SharedLib;
 
 namespace ControllerSamples.Controllers
 {
@@ -79,10 +79,19 @@ namespace ControllerSamples.Controllers
         [HttpPost]
         public async Task<ActionResult<Movie>> PostMovie(Movie movie)
         {
-            _context.Movie.Add(movie);
-            await _context.SaveChangesAsync();
+            if (ModelState.IsValid)
+            {
+                _context.Movie.Add(movie);
+                await _context.SaveChangesAsync();
+                return CreatedAtAction("GetMovie", new { id = movie.Id }, movie);
+            }
+            else
+            {
+                return BadRequest(ModelState);
+            }
+           
 
-            return CreatedAtAction("GetMovie", new { id = movie.Id }, movie);
+            
         }
 
         // DELETE: api/Movies/5

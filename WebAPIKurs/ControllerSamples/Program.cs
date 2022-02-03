@@ -1,4 +1,5 @@
 using ControllerSamples.Data;
+using ControllerSamples.Formatters;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using WebApiContrib.Core.Formatter.Csv;
@@ -14,9 +15,13 @@ builder.Services.AddDbContext<MovieDbContext>(options =>
 
 // Add services to the container.
 
-builder.Services.AddControllers()
-    .AddXmlSerializerFormatters()
-    .AddCsvSerializerFormatters();
+builder.Services.AddControllers(options =>
+{
+    options.InputFormatters.Insert(0, new VCardInputFormatter());
+    options.OutputFormatters.Insert(0, new VCardOutputFormatter());
+}) //per Default -> JSON (text/json) (application/json) -> MIME-Standard
+    .AddXmlSerializerFormatters() //XML -> text/xml / application/xml
+    .AddCsvSerializerFormatters();//CSV -> text/CSV
 
 builder.Services.AddSingleton<IContactRepository, ContactRepository>();
 

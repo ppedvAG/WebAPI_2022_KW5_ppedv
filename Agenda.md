@@ -13,25 +13,27 @@ Montag:
 - [x] Projektaufbau 
 - [x] ControllerBase in aspnetcore Sourcecode
 - [x] Return Values - Controller-Klasse
-- [ ] HTTP-Methoden (Get / Post / Put / Delete)
-- [ ] HttpVerbs in Verbindung mit Swagger (Swagger kann nicht ohne HttpVerb->z.B. HttpGet)
+- [x] HTTP-Methoden (Get / Post / Put / Delete)
+- [x] HttpVerbs in Verbindung mit Swagger (Swagger kann nicht ohne HttpVerb->z.B. HttpGet)
+- [x] Formatter (CSV,XML)
 
-- [ ] OpenAPI-SwaggerUI-swagger.json
-  - [ ] Koventionsprobleme mit Swagger.json und WebAPI-Konventionen (Default WebAPI vs Swagger Konventions)
-- [ ] Formatter (CSV,XML)
+
 - [ ] Customize Formatter (VCARD) - ShowCase 
-- [ ] EF Core Anbindung + InMeomoryProvider / SqlProvider kennengelernt -> Add-Migrations + Update-Database
+- [0] EF Core Anbindung + InMeomoryProvider / SqlProvider kennengelernt -> Add-Migrations + Update-Database
 
 
 - [ ] Migration von MVC & WebAPI von 4.8 auf ASP.NET Core (5-10 Minuten)
+
 - [ ] HttpClient (30 Minuten)
 	- [ ] CRUD abgebildet
 - [ ] Content Negotation (30 Minuten)
-- [ ] Pagging u. weitere WebAPI Features -> Skip/Take für PAging / Sorting und Filtering
 - [ ] Broadcast Videoübertragung via WebAPI
 
+
+
+- [ ] Pagging u. weitere WebAPI Features -> Skip/Take für PAging / Sorting und Filtering
 - [ ] Client mit Swagger.json (Aktuell kann es zu Bugs in VS kommen)
-- [ ] Minimal API -> wird erst in .NET 7 interessan
+- [ ] Minimal API -> wird erst in .NET 7 interessant
 - [ ] Datei übertragn mit WebAPI (Projektübersicht -> SourceCode ist fertig)
 - [ ] Controller-Klasse testen -> siehe Mcirosoft Tests -> Referenz 
 - [ ] Architekturen -> Hateoas + DataShapping + OData (30 Minuten oder) 

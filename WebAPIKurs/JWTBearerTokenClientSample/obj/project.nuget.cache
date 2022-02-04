@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f8fliH2oCu8U7d5imaSHgNJge0yR7MQNjnLVNVUyUi4Geowwq/ljROUdwdfWrPv77ML0aETscmJXM7SDzba1wA==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\WebAPI_2022_KW5_ppedv\\WebAPIKurs\\JWTBearerTokenClientSample\\JWTBearerTokenClientSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

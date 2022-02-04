@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\bin\Debug\net6.0\JWTBearerTokenClientSample.exe
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\bin\Debug\net6.0\JWTBearerTokenClientSample.deps.json
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\bin\Debug\net6.0\JWTBearerTokenClientSample.runtimeconfig.json
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\bin\Debug\net6.0\JWTBearerTokenClientSample.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\bin\Debug\net6.0\ref\JWTBearerTokenClientSample.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\bin\Debug\net6.0\JWTBearerTokenClientSample.pdb
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\obj\Debug\net6.0\JWTBearerTokenClientSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\obj\Debug\net6.0\JWTBearerTokenClientSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\obj\Debug\net6.0\JWTBearerTokenClientSample.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\obj\Debug\net6.0\JWTBearerTokenClientSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\obj\Debug\net6.0\JWTBearerTokenClientSample.csproj.CopyComplete
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\obj\Debug\net6.0\JWTBearerTokenClientSample.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\obj\Debug\net6.0\ref\JWTBearerTokenClientSample.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\obj\Debug\net6.0\JWTBearerTokenClientSample.pdb
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\JWTBearerTokenClientSample\obj\Debug\net6.0\JWTBearerTokenClientSample.genruntimeconfig.cache

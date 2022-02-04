@@ -8,10 +8,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<MovieDbContext>(options =>
 {
-    options.UseInMemoryDatabase("MovieDb");
+    //options.UseInMemoryDatabase("MovieDb");
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MovieDbContext"));
 });
 
-//options.UseSqlServer(builder.Configuration.GetConnectionString("MovieDbContext")));
+
 
 // Add services to the container.
 

@@ -1,0 +1,14 @@
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\BadCarSample\bin\Debug\net6.0\BadCarSample.exe
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\BadCarSample\bin\Debug\net6.0\BadCarSample.deps.json
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\BadCarSample\bin\Debug\net6.0\BadCarSample.runtimeconfig.json
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\BadCarSample\bin\Debug\net6.0\BadCarSample.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\BadCarSample\bin\Debug\net6.0\ref\BadCarSample.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\BadCarSample\bin\Debug\net6.0\BadCarSample.pdb
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\BadCarSample\obj\Debug\net6.0\BadCarSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\BadCarSample\obj\Debug\net6.0\BadCarSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\BadCarSample\obj\Debug\net6.0\BadCarSample.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\BadCarSample\obj\Debug\net6.0\BadCarSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\BadCarSample\obj\Debug\net6.0\BadCarSample.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\BadCarSample\obj\Debug\net6.0\ref\BadCarSample.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\BadCarSample\obj\Debug\net6.0\BadCarSample.pdb
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\BadCarSample\obj\Debug\net6.0\BadCarSample.genruntimeconfig.cache

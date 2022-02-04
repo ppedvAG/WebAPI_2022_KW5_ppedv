@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SBjLpQMZ4foLdT91ToPDYb+9+KNfcBSqrbBkmO1y27M=",
+  "Source": "JWTBearerTokenAuthentificationSample",
+  "BasePath": "_content/JWTBearerTokenAuthentificationSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -85,7 +85,22 @@
       "ProjectGuid": "c1447587-ba11-4f1b-8d69-461826e9a513",
       "DisplayName": "ControllerSample.SharedLib",
       "ColorIndex": 15
+    },
+    "69fc461a-0244-4e31-a3a8-54ec3e2fafea": {
+      "ProjectGuid": "69fc461a-0244-4e31-a3a8-54ec3e2fafea",
+      "DisplayName": "WebAPI_With_Accounts",
+      "ColorIndex": 0
+    },
+    "156c8fdc-1f86-4975-b709-12a8b79201f4": {
+      "ProjectGuid": "156c8fdc-1f86-4975-b709-12a8b79201f4",
+      "DisplayName": "JWTBearerTokenAuthentificationSample",
+      "ColorIndex": 1
+    },
+    "e2e83d2a-b56d-4f2a-ae9f-d77d2f872775": {
+      "ProjectGuid": "e2e83d2a-b56d-4f2a-ae9f-d77d2f872775",
+      "DisplayName": "JWTBearerTokenClientSample",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 3
 }

@@ -13,7 +13,7 @@ namespace ControllerSample.SharedLib
 
         public decimal Price { get; set; }
 
-        public GenreType Genre { get; set; }
+        public GenreType Genre { get; set; } // -> richtung DB wird ein Enum ein integeger-Feld
     }
 
     public enum GenreType { Action, Thriller, Drama, Comedy, Horro, Romance, Docu }

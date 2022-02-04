@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\bin\Debug\net6.0\GoodCar.Services.deps.json
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\bin\Debug\net6.0\GoodCar.Services.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\bin\Debug\net6.0\ref\GoodCar.Services.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\bin\Debug\net6.0\GoodCar.Services.pdb
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\bin\Debug\net6.0\GoodCar.Interfaces.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\bin\Debug\net6.0\GoodCar.Interfaces.pdb
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\obj\Debug\net6.0\GoodCar.Services.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\obj\Debug\net6.0\GoodCar.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\obj\Debug\net6.0\GoodCar.Services.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\obj\Debug\net6.0\GoodCar.Services.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\obj\Debug\net6.0\GoodCar.Services.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\obj\Debug\net6.0\GoodCar.Services.csproj.CopyComplete
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\obj\Debug\net6.0\GoodCar.Services.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\obj\Debug\net6.0\ref\GoodCar.Services.dll
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Services\obj\Debug\net6.0\GoodCar.Services.pdb

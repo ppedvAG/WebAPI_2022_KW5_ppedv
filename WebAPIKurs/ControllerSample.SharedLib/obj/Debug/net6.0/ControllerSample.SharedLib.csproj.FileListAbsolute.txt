@@ -9,4 +9,3 @@ C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\ob
 C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\obj\Debug\net6.0\ControllerSample.SharedLib.dll
 C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\obj\Debug\net6.0\ref\ControllerSample.SharedLib.dll
 C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\obj\Debug\net6.0\ControllerSample.SharedLib.pdb
-C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\ControllerSample.SharedLib\obj\Debug\net6.0\ControllerSample.SharedLib.csproj.AssemblyReference.cache

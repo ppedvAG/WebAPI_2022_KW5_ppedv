@@ -2,7 +2,6 @@ C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Interfaces\bin\Debug\
 C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Interfaces\bin\Debug\net6.0\GoodCar.Interfaces.dll
 C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Interfaces\bin\Debug\net6.0\ref\GoodCar.Interfaces.dll
 C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Interfaces\bin\Debug\net6.0\GoodCar.Interfaces.pdb
-C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Interfaces\obj\Debug\net6.0\GoodCar.Interfaces.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Interfaces\obj\Debug\net6.0\GoodCar.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Interfaces\obj\Debug\net6.0\GoodCar.Interfaces.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\GoodCar.Interfaces\obj\Debug\net6.0\GoodCar.Interfaces.AssemblyInfo.cs

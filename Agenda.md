@@ -26,17 +26,19 @@ Montag:
 
 - [x] HttpClient (30 Minuten)
 	- [x] CRUD abgebildet ->MVC/WEbAPI Sample
-- [ ] Content Negotation (30 Minuten)
+- [x] Content Negotation (30 Minuten)
 - [ ] Broadcast Videoübertragung via WebAPI
 
-- [ ] Authentifizierung via Identity UI -> User Accounts
+- [x] Authentifizierung via Identity UI -> User Accounts
+- [x] HttpClient mit BearerToken
 
 
-- [ ] Pagging u. weitere WebAPI Features -> Skip/Take für PAging / Sorting und Filtering
+
+- [x] Pagging u. weitere WebAPI Features -> Skip/Take für PAging / Sorting und Filtering
 - [ ] Client mit Swagger.json (Aktuell kann es zu Bugs in VS kommen)
 - [ ] Minimal API -> wird erst in .NET 7 interessant
-- [ ] Datei übertragn mit WebAPI (Projektübersicht -> SourceCode ist fertig)
-- [ ] Controller-Klasse testen -> siehe Mcirosoft Tests -> Referenz (GitHub-> Microsdt AspnetCore.Docs)
+- [x] Datei übertragn mit WebAPI (Projektübersicht -> SourceCode ist fertig)
+- [x] Controller-Klasse testen -> siehe Mcirosoft Tests -> Referenz (GitHub-> Microsdt AspnetCore.Docs)
 - [ ] Architekturen -> Hateoas + DataShapping + OData (30 Minuten oder)  -> (theorie + CodeSample in Github zeigen)
 - [ ] ODATA 8 -> Beispiel Odata-Service Implementierung.  (30-45) -> fertiges Projekt (Odata 8.0 Release vs OData 8.0 PReview und alle Artikel dazu) 
 - [ ] HttpRepl Consolen-Tool 

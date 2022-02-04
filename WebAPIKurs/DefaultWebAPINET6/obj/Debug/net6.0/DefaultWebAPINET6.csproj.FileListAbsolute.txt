@@ -26,3 +26,4 @@ C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\DefaultWebAPINET6\obj\Debug\n
 C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\DefaultWebAPINET6\obj\Debug\net6.0\ref\DefaultWebAPINET6.dll
 C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\DefaultWebAPINET6\obj\Debug\net6.0\DefaultWebAPINET6.pdb
 C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\DefaultWebAPINET6\obj\Debug\net6.0\DefaultWebAPINET6.genruntimeconfig.cache
+C:\Aktueller Kurs\WebAPI_2022_KW5_ppedv\WebAPIKurs\DefaultWebAPINET6\obj\Debug\net6.0\DefaultWebAPINET6.csproj.AssemblyReference.cache
